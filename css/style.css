@@ -19,7 +19,20 @@
 
 .my-main{
     /* width: calc(100% - 200px); */
-    background-color: violet;
+    /* background-color: violet; */
     overflow: auto;
 }
 
+.my-test{
+    /* background-color: chartreuse; */
+    border: 1px black dashed;
+    /* height: 100px; */
+}
+
+.bg-custom-1{
+    background-color: #1B72E8;
+}
+
+.bg-button{
+    background-color: #165BBA;
+}
