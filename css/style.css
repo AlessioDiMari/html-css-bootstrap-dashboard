@@ -10,11 +10,14 @@
 
 
 .my-aside{
+    height: calc(100vh - 70px);
+
     background-image: url(../img/sidebar-bg.png);
     background-color: #051E34;
 }
 
 .my-main{
+    height: calc(100vh - 70px);
     overflow-y: auto;
 }
 
